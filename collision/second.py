@@ -17,4 +17,4 @@ def isCollisionRect():
     elif((x2_first<x1_second) or(x2_second<x1_first)):
         print("False")
     else:
-            print("True")
+            print("True") 
