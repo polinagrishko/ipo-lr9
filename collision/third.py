@@ -25,4 +25,4 @@ def intersectionAreaRect():
     elif (width <= 0 or height <= 0):
      print(0)
     else:
-      print(width*height)
+      print(width*height) 
