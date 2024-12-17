@@ -20,7 +20,7 @@ def intersectionAreaMultiRect(rectangles):
         left=max(x1,x3)# левая
         bottom = max(y1, y3) # нижняя
         right = min(x2, x4) # правая
-        top = min(y2, y4) # верхняя
+        top = min(y2, y4) # верхняя 
 
         width=right-left
         height=top-bottom
